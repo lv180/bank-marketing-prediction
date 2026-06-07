@@ -1,4 +1,3 @@
-# bank-marketing-prediction
 # Bank Marketing Prediction
 
 ## Project Overview
