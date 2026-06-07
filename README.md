@@ -79,19 +79,11 @@ The most influential predictive factors included previous successful customer in
 
 ### Target Variable Distribution
 
-![Target Distribution](images/target_distribution.png)
-
 ### XGBoost Confusion Matrix
-
-![XGBoost Confusion Matrix](images/confusion_matrix_xgboost.png)
 
 ### ROC Curve Comparison
 
-![ROC Curve Comparison](images/roc_curve_comparison.png)
-
 ### XGBoost Feature Importance
-
-![XGBoost Feature Importance](images/xgboost_feature_importance.png)
 
 ## Repository Structure
 
