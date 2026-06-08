@@ -93,6 +93,11 @@ The most influential predictive factors included previous successful customer in
 
 ![XGBoost Feature Importance](images/xgboost_feature_importance.png)
 
+## Project Files
+
+- [Jupyter Notebook](notebooks/bank_marketing_analysis.ipynb)
+- [Final Report](report/final_report_predictive.pdf)
+
 ## Repository Structure
 
 ```text
@@ -105,18 +110,19 @@ bank-marketing-prediction/
 ├── report/
 │   └── bank_marketing_report.pdf
 │
-├── images/
-│   ├── target_distribution.png
-│   ├── confusion_matrix_xgboost.png
-│   ├── roc_curve_comparison.png
-│   └── xgboost_feature_importance.png
-│
-└── data/
-    └── README.md
+└── images/
+    ├── target_distribution.png
+    ├── confusion_matrix_xgboost.png
+    ├── roc_curve_comparison.png
+    └── xgboost_feature_importance.png
+
 ```
 
 ## Author
 
-Luis Enrique Villalobos Socualaya
-Master of Data Analytics Student
-University of Niagara Falls Canada
+## Author
+
+**Luis Enrique Villalobos Socualaya**  
+Master of Data Analytics Student  
+University of Niagara Falls Canada  
+[LinkedIn](https://www.linkedin.com/in/luisvillaloboss/)
