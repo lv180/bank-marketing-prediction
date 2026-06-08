@@ -1,4 +1,4 @@
-# Bank Marketing Prediction
+# Bank Marketing Term Deposit Prediction
 
 ## Project Overview
 
