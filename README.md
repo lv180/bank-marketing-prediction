@@ -120,8 +120,6 @@ bank-marketing-prediction/
 
 ## Author
 
-## Author
-
 **Luis Enrique Villalobos Socualaya**  
 Master of Data Analytics Student  
 University of Niagara Falls Canada  
